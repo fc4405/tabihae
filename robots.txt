@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fc4405.github.io/tabihae/sitemap.xml
