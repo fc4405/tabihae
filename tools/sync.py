@@ -17,6 +17,8 @@ META = (
     'routes and live seasonal notes.">'
     f'<meta property="og:type" content="website"><meta property="og:url" content="{URL}">'
     f'<meta name="twitter:card" content="summary_large_image"><link rel="canonical" href="{URL}">'
+    '<meta property="og:image" content="https://commons.wikimedia.org/wiki/Special:FilePath/Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg?width=1200"><meta name="twitter:image" content="https://commons.wikimedia.org/wiki/Special:FilePath/Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg?width=1200">'
+    '<link rel="image_src" href="https://commons.wikimedia.org/wiki/Special:FilePath/Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg?width=1200">'
 )
 ANCHOR = 'viewport-fit=cover">'
 
