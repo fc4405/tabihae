@@ -6,6 +6,8 @@
 | 2026-11-05 | ginkaku | （未予約） | Ginkaku-ji_Kyoto_138.jpg | — | 見送り：同上（ライセンスを確認できなかった） |
 | 2026-11-06 | eikando | Eikando Temple at Night: Kyoto Autumn Leaves Guide | pins/2026-11-06-eikando.png（自作カード） | 2026-11-06 20:00 JST | 予約済み（Metricool 418501207） |
 | 2026-11-06 | takaosan | Mount Takao in Autumn: Fall Colors Day Trip from Tokyo | pins/2026-11-06-takaosan.png（自作カード） | 2026-11-06 23:00 JST | 予約済み（Metricool 418501275） |
+| 2026-11-07 | tofukuji | Tofuku-ji Autumn Leaves: Kyoto Maples from Tsutenkyo Bridge | pins/2026-11-07-tofukuji.png（自作カード） | 2026-11-07 20:00 JST | 予約済み（Metricool 418518512） |
+| 2026-11-07 | nabananosato | Nabana no Sato Winter Illumination: Light Tunnel near Nagoya | pins/2026-11-07-nabananosato.png（自作カード） | 2026-11-07 23:00 JST | 予約済み（Metricool 418518520） |
 
 ## 止まった記録
 
