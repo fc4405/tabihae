@@ -12,6 +12,8 @@
 | 2026-11-06 | nara | Nara Park Deer in Autumn: Day Trip from Kyoto or Osaka | Pexels 15845939（Willian Justen de Vasconcellos） | 2026-11-06 23:00 JST | 予約済み（Metricool 418548510） |
 | 2026-11-07 | kawaguchiko | Lake Kawaguchiko in Autumn: Mount Fuji and Red Maples | Pexels 33229964（Lorenzo Castellino） | 2026-11-07 20:00 JST | 予約済み（Metricool 418548520） |
 | 2026-11-07 | kinkaku | Kinkaku-ji Golden Pavilion: Kyoto Temple Visit Tips | Pexels 356629（Pixabay） | 2026-11-07 23:00 JST | 予約済み（Metricool 418548529） |
+| 2026-11-08 | kiyomizu | Kiyomizu-dera in Autumn: Kyoto Temple Stage and Fall Colors Guide | Pexels 33229939（Lorenzo Castellino） | 2026-11-08 20:00 JST | 予約済み（Metricool 419657977） |
+| 2026-11-08 | himeji | Himeji Castle in Autumn: Easy Day Trip from Osaka by Train | Pexels 30944549（Ehsan Haque） | 2026-11-08 23:00 JST | 予約済み（Metricool 419657983） |
 
 ## 止まった記録
 
