@@ -14,6 +14,10 @@
 | 2026-11-07 | kinkaku | Kinkaku-ji Golden Pavilion: Kyoto Temple Visit Tips | Pexels 356629（Pixabay） | 2026-11-07 23:00 JST | 予約済み（Metricool 418548529） |
 | 2026-11-08 | kiyomizu | Kiyomizu-dera in Autumn: Kyoto Temple Stage and Fall Colors Guide | Pexels 31295484（Bapak Moto）縦 | 2026-11-08 20:00 JST | 予約済み（Metricool 420460200） |
 | 2026-11-08 | himeji | Himeji Castle in Autumn: Easy Day Trip from Osaka by Train | Pexels 33229961（Lorenzo Castellino）縦 | 2026-11-08 23:00 JST | 予約済み（Metricool 420460206） |
+| 2026-11-09 | arashiyama | Arashiyama in Autumn: Kyoto Riverside Fall Colors and Bamboo Grove Day Plan | Pexels 33229947（Lorenzo Castellino）縦 | 2026-11-09 06:00 JST | 予約済み（Metricool 420467934） |
+| 2026-11-09 | osakacastle | Osaka Castle in Autumn: Moat Reflection View and Things to Do in Osaka | Pexels 31373949（Ve B）縦 | 2026-11-09 10:00 JST | 予約済み（Metricool 420467946） |
+| 2026-11-09 | shirakawago | Shirakawa-go in Winter: Snowy Thatched Village Trip from Takayama or Kanazawa | Pexels 36958091（Ignacio Estevo）縦 | 2026-11-09 13:00 JST | 予約済み（Metricool 420467957） |
+| 2026-11-09 | fushimi | Fushimi Inari Taisha Torii Gates: Kyoto Hike Guide and Crowd-Free Timing | Pexels 3995905（D J）縦 | 2026-11-09 21:00 JST | 予約済み（Metricool 420467967） |
 
 ## 止まった記録
 
