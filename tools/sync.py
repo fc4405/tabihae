@@ -2,7 +2,7 @@
 
 Usage: python3 tools/sync.py <artifact.html>
 Adds search/share metadata after the viewport tag, then writes index.html
-and refreshes sitemap.xml's lastmod. Prints CHANGED or UNCHANGED.
+and rebuilds spots/ and sitemap.xml via tools/spotpages.py. Prints CHANGED or UNCHANGED.
 """
 import datetime, pathlib, sys
 
@@ -32,12 +32,11 @@ if "TabiHae" not in src[:20000]:
 
 out = ROOT / "index.html"
 old = out.read_text(encoding="utf-8") if out.exists() else ""
-if old == src:
-    print("UNCHANGED")
-    sys.exit(0)
-out.write_text(src, encoding="utf-8")
-today = datetime.date.today().isoformat()
-(ROOT / "sitemap.xml").write_text(
-    '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-    f'<url><loc>{URL}</loc><lastmod>{today}</lastmod></url></urlset>\n', encoding="utf-8")
-print("CHANGED")
+changed = old != src
+if changed:
+    out.write_text(src, encoding="utf-8")
+# Rebuild spot landing pages (spots/) and sitemap.xml from the site data and pins.md.
+import subprocess
+pages = subprocess.run([sys.executable, str(ROOT / "tools/spotpages.py")], check=True,
+                       capture_output=True, text=True).stdout.strip()
+print("CHANGED" if changed or pages == "CHANGED" else "UNCHANGED")
