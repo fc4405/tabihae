@@ -18,6 +18,10 @@
 | 2026-11-09 | osakacastle | Osaka Castle in Autumn: Moat Reflection View and Things to Do in Osaka | Pexels 31373949（Ve B）縦 | 2026-11-09 10:00 JST | 予約済み（Metricool 420467946） |
 | 2026-11-09 | shirakawago | Shirakawa-go in Winter: Snowy Thatched Village Trip from Takayama or Kanazawa | Pexels 36958091（Ignacio Estevo）縦 | 2026-11-09 13:00 JST | 予約済み（Metricool 420467957） |
 | 2026-11-09 | fushimi | Fushimi Inari Taisha Torii Gates: Kyoto Hike Guide and Crowd-Free Timing | Pexels 3995905（D J）縦 | 2026-11-09 21:00 JST | 予約済み（Metricool 420467967） |
+| 2026-11-10 | matsumoto | Matsumoto Castle in Autumn: Crow Castle Day Trip from Tokyo by Limited Express | Pexels 29753529（Markus Winkler）正方形 | 2026-11-10 06:00 JST | 予約済み（Metricool 421356782） |
+| 2026-11-10 | nikko | Nikko in Autumn: Shinkyo Bridge and Toshogu Shrine Day Trip from Tokyo | Pexels 35107834（Dmitry Romanoff）縦 | 2026-11-10 10:00 JST | 予約済み（Metricool 421356793） |
+| 2026-11-10 | tokyotower | Tokyo Tower at Night: Things to Do in Tokyo After Dark | Pexels 31405061（chienlung Huang）縦 | 2026-11-10 13:00 JST | 予約済み（Metricool 421356799） |
+| 2026-11-10 | otaru | Otaru Canal in Winter: Snowy Hokkaido Day Trip from Sapporo | Pexels 39078416（Jatin Chadha）縦 | 2026-11-10 21:00 JST | 予約済み（Metricool 421356806） |
 
 ## 止まった記録
 
@@ -26,3 +30,4 @@
 - 2026-11-06（オーナー判断）：Commons の写真をやめ、tools/pincard.py で作る自作の文字カード（写真なし）に切り替え。画像は pins/ に置き、GitHub Pages の URL を Metricool に渡す。ボードIDは 655273883223294013（Japan Travel）。
 - 2026-11-06 14:35（オーナー指示「きれいな写真を使って」）：文字カードをやめ、Pexels の写真（Pexels License：商用可・改変可・クレジット不要）に切り替え。11/6・11/7 の4本を写真のピンに差し替えた。写真はスポット名がページの説明に書かれているものだけを使う。images.pexels.com はこの環境から直接取得できないため、写真の見た目は Pexels のページ説明で判断している。
 - 2026-11-08 13:10（オーナー指示「投稿の質と量。ターゲットに刺さる画像にしておいて」）：11/8 の2本を横の写真から縦（2:3）の紅葉の写真に差し替え（清水寺 Pexels 31295484、姫路城 Pexels 33229961）。Metricool の ID が 420460200・420460206 に変わった。11/9 から1日4本（JST 6:00・10:00・13:00・21:00）、縦の写真を優先する手順に変更。
+- 2026-11-09（11/10 分）：eikando・takaosan・tofukuji は Pexels でスポット名入りの写真が見つからず、jigokudani・kenrokuen は横の写真しかなかったため後回し。松本城は縦がなく正方形（4000×4000）を切り抜かずに使用。
