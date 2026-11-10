@@ -22,6 +22,10 @@
 | 2026-11-10 | nikko | Nikko in Autumn: Shinkyo Bridge and Toshogu Shrine Day Trip from Tokyo | Pexels 35107834（Dmitry Romanoff）縦 | 2026-11-10 10:00 JST | 予約済み（Metricool 421356793） |
 | 2026-11-10 | tokyotower | Tokyo Tower at Night: Things to Do in Tokyo After Dark | Pexels 31405061（chienlung Huang）縦 | 2026-11-10 13:00 JST | 予約済み（Metricool 421356799） |
 | 2026-11-10 | otaru | Otaru Canal in Winter: Snowy Hokkaido Day Trip from Sapporo | Pexels 39078416（Jatin Chadha）縦 | 2026-11-10 21:00 JST | 予約済み（Metricool 421356806） |
+| 2026-11-11 | kamikochi | Kamikochi in Autumn: Japan Alps Valley Walk from Matsumoto | Pexels 34566451（Nizar F）縦 | 2026-11-11 06:00 JST | 予約済み（Metricool 422718244） |
+| 2026-11-11 | shinjukugyoen | Shinjuku Gyoen in November: Tokyo Autumn Leaves Garden Walk | Pexels 35205660（Hugo Guillemard）縦 | 2026-11-11 10:00 JST | 予約済み（Metricool 422718254） |
+| 2026-11-11 | shibuya | Shibuya Crossing at Night: Things to Do in Tokyo After Dark | Pexels 31381753（Acres of Film）縦 | 2026-11-11 13:00 JST | 予約済み（Metricool 422718263） |
+| 2026-11-11 | sapporo-odori | Sapporo TV Tower in Winter: Odori Park Snow Trip Planning for Hokkaido | Pexels 31415732（Saya Azeem）縦 | 2026-11-11 21:00 JST | 予約済み（Metricool 422718283） |
 
 ## 止まった記録
 
@@ -31,3 +35,4 @@
 - 2026-11-06 14:35（オーナー指示「きれいな写真を使って」）：文字カードをやめ、Pexels の写真（Pexels License：商用可・改変可・クレジット不要）に切り替え。11/6・11/7 の4本を写真のピンに差し替えた。写真はスポット名がページの説明に書かれているものだけを使う。images.pexels.com はこの環境から直接取得できないため、写真の見た目は Pexels のページ説明で判断している。
 - 2026-11-08 13:10（オーナー指示「投稿の質と量。ターゲットに刺さる画像にしておいて」）：11/8 の2本を横の写真から縦（2:3）の紅葉の写真に差し替え（清水寺 Pexels 31295484、姫路城 Pexels 33229961）。Metricool の ID が 420460200・420460206 に変わった。11/9 から1日4本（JST 6:00・10:00・13:00・21:00）、縦の写真を優先する手順に変更。
 - 2026-11-09（11/10 分）：eikando・takaosan・tofukuji は Pexels でスポット名入りの写真が見つからず、jigokudani・kenrokuen は横の写真しかなかったため後回し。松本城は縦がなく正方形（4000×4000）を切り抜かずに使用。
+- 2026-11-10（11/11 分）：ginzan は Pexels にスポット名入りの写真がなく見送り。todaiji・ginkaku（秋）と kusatsu・miyajima は横の写真しかなかった（miyajima は縦の夕景あり、紅葉ではないため今回は後回し）。紅葉の2本目は縦の写真がある kamikochi（見頃は10月中旬〜下旬と記載）にした。
