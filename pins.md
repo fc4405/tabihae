@@ -26,6 +26,10 @@
 | 2026-11-11 | shinjukugyoen | Shinjuku Gyoen in November: Tokyo Autumn Leaves Garden Walk | Pexels 35205660（Hugo Guillemard）縦 | 2026-11-11 10:00 JST | 予約済み（Metricool 422718254） |
 | 2026-11-11 | shibuya | Shibuya Crossing at Night: Things to Do in Tokyo After Dark | Pexels 31381753（Acres of Film）縦 | 2026-11-11 13:00 JST | 予約済み（Metricool 422718263） |
 | 2026-11-11 | sapporo-odori | Sapporo TV Tower in Winter: Odori Park Snow Trip Planning for Hokkaido | Pexels 31415732（Saya Azeem）縦 | 2026-11-11 21:00 JST | 予約済み（Metricool 422718283） |
+| 2026-11-12 | kenrokuen | Kenroku-en Garden in Autumn: Kanazawa Fall Foliage and Japan Garden Guide | Pexels 33229931（Lorenzo Castellino）横 | 2026-11-12 06:00 JST | 予約済み（Metricool 424003291） |
+| 2026-11-12 | tofukuji | Tofuku-ji in November: Kyoto Autumn Leaves Itinerary Stop by JR Train | Pexels 35076911（Dmitry Romanoff）横 | 2026-11-12 10:00 JST | 予約済み（Metricool 424003302） |
+| 2026-11-12 | miyajima | Miyajima Floating Torii at Sunset: Itsukushima Day Trip from Hiroshima | Pexels 30825501（Hoi Wai）縦 | 2026-11-12 13:00 JST | 予約済み（Metricool 424003312） |
+| 2026-11-12 | jigokudani | Jigokudani Snow Monkeys in Winter: Nagano Hot Spring Trip Planning | Pexels 30759482（Salvador Chinchilla）横 | 2026-11-12 21:00 JST | 予約済み（Metricool 424003318） |
 
 ## 止まった記録
 
@@ -36,3 +40,4 @@
 - 2026-11-08 13:10（オーナー指示「投稿の質と量。ターゲットに刺さる画像にしておいて」）：11/8 の2本を横の写真から縦（2:3）の紅葉の写真に差し替え（清水寺 Pexels 31295484、姫路城 Pexels 33229961）。Metricool の ID が 420460200・420460206 に変わった。11/9 から1日4本（JST 6:00・10:00・13:00・21:00）、縦の写真を優先する手順に変更。
 - 2026-11-09（11/10 分）：eikando・takaosan・tofukuji は Pexels でスポット名入りの写真が見つからず、jigokudani・kenrokuen は横の写真しかなかったため後回し。松本城は縦がなく正方形（4000×4000）を切り抜かずに使用。
 - 2026-11-10（11/11 分）：ginzan は Pexels にスポット名入りの写真がなく見送り。todaiji・ginkaku（秋）と kusatsu・miyajima は横の写真しかなかった（miyajima は縦の夕景あり、紅葉ではないため今回は後回し）。紅葉の2本目は縦の写真がある kamikochi（見頃は10月中旬〜下旬と記載）にした。
+- 2026-11-11（11/12 分）：紅葉の未使用スポットでスポット名入りの縦写真が見つからず（tofukuji・kenrokuen は横のみ、eikando・takaosan・hirosaki・oirase・koyasan・kakunodate は名前入りの写真なし）、紅葉2本は横の写真を切り抜かずに使用。冬枠も jigokudani・takayama（雪）とも横のみで、jigokudani の横を使用。hakone はスポットが大涌谷のため、芦ノ湖の鳥居の縦写真（Pexels 30091614）は別の場所として使わなかった。Pexels 32398713（金沢の秋の通り）と 30988651 は WebFetch の権限確認が時間切れで開けず、回避せず見送り。
